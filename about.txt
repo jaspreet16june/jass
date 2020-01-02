@@ -18,6 +18,9 @@ AMANDEEP KAUR
 .
 .
 .
+age 19
+age 50
+age 47 
 
 
 
